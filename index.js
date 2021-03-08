@@ -8,3 +8,6 @@ console.log("Baris ketiga");
 //Rabu
 console.log("Baris keempat");
 console.log("Baris kelima");
+
+//Kamis
+console.log("Baris keenam");
