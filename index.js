@@ -11,3 +11,6 @@ console.log("Baris kelima");
 
 //Kamis
 console.log("Baris keenam");
+
+//Jumat
+console.log("Hai, baris baru :P");
