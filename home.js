@@ -12,4 +12,5 @@ console.log("Baris ketujuh");
 
 //Jumat
 console.log("Baris kedelapan");
+console.log("Fernando Piay");
 console.log("Timothy Tiwow");
