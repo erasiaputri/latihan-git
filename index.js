@@ -13,4 +13,4 @@ console.log("Baris kelima");
 console.log("Baris keenam");
 
 //Jumat
-console.log("Baris ketujuh");
+//("Baris ketujuh");
